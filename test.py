@@ -1,5 +1,5 @@
 import nltk
-nltk.download()
+# nltk.download()
 from sklearn.feature_extraction.text import TfidfVectorizer
 import nltk
 import numpy as np
